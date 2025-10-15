@@ -5,7 +5,7 @@ I [expect to learn a lot about modern software maintenance practices and how to 
 
 - **Fun fact**: I enjoy photography and exploring new technologies.
 - **Course expectations**: To gain hands-on experience in maintaining and evolving software.
-- 
+  
 ![My Image](https://github.com/SoftwareMaintenanceEvolution/tutorial-1-jiaoliao66/blob/profile-upload/pro.jpg?raw=true)
 
 ## GitHub Profile
