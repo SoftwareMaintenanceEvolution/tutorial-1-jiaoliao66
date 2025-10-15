@@ -3,7 +3,7 @@
 Hi! I'm XiaoYan Zhou, a student in the Framework-Based Software Design and Development course. 
 I [expect to learn a lot about modern software maintenance practices and how to work with legacy systems].
 
-![My Image](image.jpg)  <!-- https://github.com/SoftwareMaintenanceEvolution/tutorial-1-jiaoliao66/blob/profile-upload/pro.jpg?raw=true -->
+![My Image](image.jpg)  (https://github.com/SoftwareMaintenanceEvolution/tutorial-1-jiaoliao66/blob/profile-upload/pro.jpg?raw=true)
 
 ## GitHub Profile
 
